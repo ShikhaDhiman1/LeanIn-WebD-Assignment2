@@ -1,0 +1,10 @@
+div.div-contact{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 108px;
+    margin:25px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgb(67, 67, 67);
+}
